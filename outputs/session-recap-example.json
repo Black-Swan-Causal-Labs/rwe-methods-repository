@@ -1,0 +1,94 @@
+{
+  "status": "draft_session_recap",
+  "dataset_version": "0.2",
+  "context_basis": "Caller-supplied session ledger; not an observed transcript",
+  "discussed": [
+    "Compared new users of alternative treatments"
+  ],
+  "readings_used": [
+    {
+      "article_id": "A18",
+      "title": "Active-comparator, new-user designs",
+      "url": "https://doi.org/10.1007/s40471-015-0053-5"
+    }
+  ],
+  "connected_competencies": [
+    {
+      "competency_id": "C30",
+      "label": "Epidemiology study designs and their strengths/limitations",
+      "article_ids": [
+        "A18"
+      ],
+      "status": "provisional_connection_not_mastery"
+    },
+    {
+      "competency_id": "C14",
+      "label": "Control for confounding and biases",
+      "article_ids": [
+        "A18"
+      ],
+      "status": "provisional_connection_not_mastery"
+    },
+    {
+      "competency_id": "C38",
+      "label": "Measurement of population identifiers, exposure, outcomes and covariance, including their measurement characteristics",
+      "article_ids": [
+        "A18"
+      ],
+      "status": "provisional_connection_not_mastery"
+    }
+  ],
+  "suggested_readings": [
+    {
+      "article_id": "A04",
+      "title": "Designing useful comparisons in real-world data",
+      "url": "https://doi.org/10.1093/rheumatology/kez320",
+      "reading_url": "#reading/A04",
+      "reason": "Shares provisional competency connections: Study design; Statistics – confounding and bias",
+      "competency_ids": [
+        "C30",
+        "C14"
+      ],
+      "evidence_basis": "Abstract",
+      "status": "provisional_suggestion"
+    },
+    {
+      "article_id": "A08",
+      "title": "Time-related biases in database studies",
+      "url": "https://doi.org/10.1002/pds.5083",
+      "reading_url": "#reading/A08",
+      "reason": "Shares provisional competency connections: Study design; Statistics – confounding and bias",
+      "competency_ids": [
+        "C30",
+        "C14"
+      ],
+      "evidence_basis": "Abstract",
+      "status": "provisional_suggestion"
+    },
+    {
+      "article_id": "A17",
+      "title": "Using people as their own comparators",
+      "url": "https://doi.org/10.1111/joim.12186",
+      "reading_url": "#reading/A17",
+      "reason": "Shares provisional competency connections: Study design; Statistics – confounding and bias",
+      "competency_ids": [
+        "C30",
+        "C14"
+      ],
+      "evidence_basis": "Abstract",
+      "status": "provisional_suggestion"
+    }
+  ],
+  "outside_information": [
+    "Model background was used for an illustrative example"
+  ],
+  "open_questions": [
+    "How should treatment switching be handled?"
+  ],
+  "limits": [
+    "Topic connections do not establish learner mastery.",
+    "Reading suggestions use provisional competency overlap, not a validated learning sequence.",
+    "Outside-information completeness depends on the caller disclosing it.",
+    "No transcript or persistent session history is stored by this tool."
+  ]
+}
