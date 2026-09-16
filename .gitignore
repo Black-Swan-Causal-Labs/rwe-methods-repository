@@ -10,3 +10,7 @@ work/*
 !work/*.py
 !work/validate-pilot.mjs
 !work/README.md
+
+**/.wrangler/
+**/.dev.vars
+**/.dev.vars.*

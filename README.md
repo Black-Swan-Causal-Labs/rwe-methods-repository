@@ -45,7 +45,7 @@ npm ci
 npm run dev -- --port 5174 --strictPort
 ```
 
-Open http://127.0.0.1:5174/. For a production build, run `npm run build`; serve `dist/` over HTTP. No deployment is configured.
+Open http://127.0.0.1:5174/. For a production build, run `npm run build`; serve `dist/` over HTTP. The password-protected Cloudflare pilot is available at https://rwe-methods-repository.pages.dev. See [hosting and access](docs/cloudflare-hosting.md).
 
 From the repository root:
 
