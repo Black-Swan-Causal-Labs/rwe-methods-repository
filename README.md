@@ -45,7 +45,7 @@ npm ci
 npm run dev -- --port 5174 --strictPort
 ```
 
-Open http://127.0.0.1:5174/. For a production build, run `npm run build`; serve `dist/` over HTTP. The password-protected Cloudflare pilot is available at https://rwe-methods-repository.pages.dev. See [hosting and access](docs/cloudflare-hosting.md).
+Open http://127.0.0.1:5174/. For a production build, run `npm run build`; serve `dist/` over HTTP. The publicly accessible Cloudflare pilot is available at https://rwe-methods-repository.pages.dev. See [hosting and access](docs/cloudflare-hosting.md).
 
 From the repository root:
 
@@ -99,7 +99,7 @@ The project's original software, construction and validation scripts, learning-s
 - **Educational content:** the corpus datasets, teaching summaries, reference answers, competency mappings, and source extracts are **not covered by the MIT license**. No additional reuse license is granted for these materials in this pilot; source-specific terms and any applicable permissions continue to apply. Their scientific review status remains provisional.
 - **Third-party material:** publications, competency wording, the ISPE logo, other third-party branding, fonts, and dependencies retain their respective owners' rights and license terms. This software license grants no rights to third-party trademarks and does not imply ISPE endorsement.
 
-The GitHub repository remains private. This license does not change repository access or the hosted site's password protection. Recipients of the software receive the permissions described in the MIT license, including redistribution and commercial use subject to its notice requirement.
+The GitHub repository remains private. The hosted website and its downloads are publicly accessible without a login. Recipients of the software receive the permissions described in the MIT license, including redistribution and commercial use subject to its notice requirement.
 
 ## Next iteration
 
