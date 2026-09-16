@@ -6,7 +6,7 @@ An educational proof of concept for trainees with basic epidemiology knowledge: 
 
 ## Collaboration
 
-A collaboration among the **ISPE DTAI SIG**, **RWE Collaborative SIG**, and **ISPE Academic Council**. Current members: Anton Pottegård, John D. Diaz-Decaro, Nivi, and Fatemehsadat Ghanadi Ladani. Additional collaborators will be added as the initiative develops.
+A collaboration among the **ISPE DTAI SIG**, **RWE Collaborative SIG**, and **ISPE Academic Council**. Current members: Anton Pottegård, John D. Diaz-Decaro, Nivantha Naidoo, and Fatemehsadat Ghanadi Ladani. Additional collaborators will be added as the initiative develops.
 
 Developed by [Black Swan Causal Labs](https://blackswancausallabs.com). © 2026.
 
