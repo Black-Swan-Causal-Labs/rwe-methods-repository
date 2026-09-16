@@ -87,7 +87,19 @@ Historical scripts capture portions of the original workflow, but do not reprodu
 
 ## Source materials and reuse
 
-Original publisher PDFs, full-text captures, page images, and raw extraction caches remain local and are listed in the source manifest instead of being uploaded wholesale. Source citations and evidence pointers are retained in the dataset. The supplied ISPE logo links to [ISPE](https://pharmacoepi.org); it remains third-party branding. Article text, competency wording, logos, and bundled dependencies retain their respective rights and license terms. No blanket open-source/content license is assigned by this initial private repository; selecting release licenses is a separate project decision.
+Original publisher PDFs, full-text captures, page images, and raw extraction caches remain local and are listed in the source manifest instead of being uploaded wholesale. Source citations and evidence pointers are retained in the dataset. The supplied ISPE logo links to [ISPE](https://pharmacoepi.org); it remains third-party branding. Article text, competency wording, logos, and bundled dependencies retain their respective rights and license terms. See the license scope below.
+
+## License
+
+The project's original software, construction and validation scripts, learning-skill instructions, and software documentation are licensed under the **[MIT License](LICENSE)**. Copyright © 2026 Black Swan Causal Labs. The standard license text is also available from the [Open Source Initiative](https://opensource.org/license/mit).
+
+### Scope and exclusions
+
+- **Included:** original application code, Cloudflare authentication code, scripts, skill instructions, and documentation explaining how to run and maintain the software.
+- **Educational content:** the corpus datasets, teaching summaries, reference answers, competency mappings, and source extracts are **not covered by the MIT license**. No additional reuse license is granted for these materials in this pilot; source-specific terms and any applicable permissions continue to apply. Their scientific review status remains provisional.
+- **Third-party material:** publications, competency wording, the ISPE logo, other third-party branding, fonts, and dependencies retain their respective owners' rights and license terms. This software license grants no rights to third-party trademarks and does not imply ISPE endorsement.
+
+The GitHub repository remains private. This license does not change repository access or the hosted site's password protection. Recipients of the software receive the permissions described in the MIT license, including redistribution and commercial use subject to its notice requirement.
 
 ## Next iteration
 
